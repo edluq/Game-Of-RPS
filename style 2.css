@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+    margin: 20px;
+}
+
+.container {
+    text-align: center;
+    background-color: skyblue;
+    padding: 30px 20px 50px 20px;
+    border-radius: 25px;
+    font-family: 'Ranchers', cursive;
+}
+
+#opciones input, #resultados input {
+    width: 150px;
+}
+
+#resultados {
+    display: none;
+}
